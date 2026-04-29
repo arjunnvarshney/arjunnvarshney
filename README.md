@@ -70,8 +70,4 @@
 
 ---
 
-### 📬 Get In Touch
-- **LinkedIn:** [arjun-varshney-92990a313](https://www.linkedin.com/in/arjun-varshney-92990a313/)
-- **Email:** [arjunvarshney3156@gmail.com](mailto:arjunvarshney3156@gmail.com)
-
 <p align="right">(<a href="#top">back to top</a>)</p>
