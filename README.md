@@ -39,12 +39,12 @@
 #### 🤖 AI / ML & Data Science
 <p align="left">
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white" />
 </p>
 
 #### 💻 Web & Backend
@@ -52,11 +52,14 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
-#### 🔧 Tools
+#### 🔧 Tools & DevOps
 <p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
@@ -69,15 +72,15 @@
 
 | Project | Highlights | Tech Stack |
 | :--- | :--- | :--- |
-| **[🛡️ Hybrid IDS](https://github.com/arjunnvarshney/Hybrid-Intrusion-Detection-System)** | Multi-vector anomaly detection using Random Forest & Isolation Forest with real-time dashboard | `Python` `scikit-learn` `ML` |
-| **[🔍 RAG Assistant](https://github.com/arjunnvarshney/rag-research-paper-assistant)** | AI assistant for querying and analysing research papers using RAG | `Python` `LangChain` `LLM` |
-| **[📈 Traffic Forecast](https://github.com/arjunnvarshney/traffic-forecast-system)** | Traffic prediction system with visual dashboard | `HTML` `JS` `Chart.js` |
+| **[🛡️ Hybrid IDS](https://github.com/arjunnvarshney/Hybrid-Intrusion-Detection-System)** | Multi-vector anomaly detection using Random Forest & Isolation Forest with REST API & Docker support | `Python` `scikit-learn` `Docker` `REST API` |
+| **[🔍 RAG Assistant](https://github.com/arjunnvarshney/rag-research-paper-assistant)** | AI assistant for querying research papers using Retrieval-Augmented Generation | `Python` `LangChain` `FAISS` `LLM` |
+| **[📈 Traffic Forecast](https://github.com/arjunnvarshney/traffic-forecast-system)** | Traffic prediction system with visual dashboard | `HTML` `JS` |
 | **[💹 Financial Research Tool](https://github.com/arjunnvarshney/financial-research-tool)** | Financial data analysis and research automation | `Python` `Pandas` |
-| **[🩺 Skin Disease Detection](https://github.com/arjunnvarshney/skin-disease-detection-DTI)** | ML-based skin disease classification for medical diagnostics | `Python` `OpenCV` `ML` |
-| **[🎯 FocusFlow](https://github.com/arjunnvarshney/focusflow)** | Productivity app with task and focus tracking | `JavaScript` `React` |
-| **[🍽️ Mess Slot Booking](https://github.com/arjunnvarshney/mess-slot-booking)** | University mess management system with admin panel | `JavaScript` `Node.js` |
+| **[🩺 Skin Disease Detection](https://github.com/arjunnvarshney/skin-disease-detection-DTI)** | ML-based skin disease classification for medical diagnostics | `Python` `OpenCV` `scikit-learn` |
+| **[🎯 FocusFlow](https://github.com/arjunnvarshney/focusflow)** | Productivity app with task and focus tracking | `JavaScript` `React` `Node.js` |
+| **[🍽️ Mess Slot Booking](https://github.com/arjunnvarshney/mess-slot-booking)** | University mess management system with admin panel & secure auth | `JavaScript` `Node.js` `Express.js` `JWT` `MongoDB` |
 | **[📅 Scheduling Platform](https://github.com/arjunnvarshney/Scheduling-Platform)** | Calendar management and appointment scheduling | `TypeScript` `React` |
-| **[🔔 Price Drop Alert](https://github.com/arjunnvarshney/Price-Drop-Alert-Tool)** | Automated price tracking and email alert system | `Python` `BeautifulSoup` `SMTP` |
+| **[🔔 Price Drop Alert](https://github.com/arjunnvarshney/Price-Drop-Alert-Tool)** | Automated price tracking with email alerts | `Python` `BeautifulSoup` `SMTP` |
 
 ---
 
